@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessagePool xmlns="http://wwww.ibm.com/iib/test/1.0.0">
+    <MQInputMessage timestamp="1722253810889" nodeId="FCMComposite_1_1" name="Hello" id="1722253810889-7">
+        <plainText>Hello</plainText>
+        <MessageHeader backoutCount="0" characterSet="0" encoding="0" expiry="-1" feedback="0" messageFlags="0" messageType="8" messageSequenceNumber="1" offset="0" originalLength="-1" persistence="2" priority="-1" putApplicationType="0" report="0"/>
+    </MQInputMessage>
+    <MQInputMessage timestamp="1722254558257" nodeId="FCMComposite_1_1" name="Req data" id="1722254558257-83">
+        <plainText>Give+me+info+regarding+req+data.</plainText>
+        <MessageHeader backoutCount="0" characterSet="0" encoding="0" expiry="-1" feedback="0" messageFlags="0" messageType="8" messageSequenceNumber="1" offset="0" originalLength="-1" persistence="2" priority="-1" putApplicationType="0" report="0"/>
+    </MQInputMessage>
+    <MQInputMessage timestamp="1722487669502" nodeId="FCMComposite_1_1" name="TEST" id="1722487669502-70">
+        <plainText>Hello+MQ+Output+Node.</plainText>
+        <MessageHeader backoutCount="0" characterSet="0" encoding="0" expiry="-1" feedback="0" messageFlags="0" messageType="8" messageSequenceNumber="1" offset="0" originalLength="-1" persistence="2" priority="-1" putApplicationType="0" report="0"/>
+    </MQInputMessage>
+    <MQInputMessage timestamp="1722487747746" nodeId="FCMComposite_1_1" name="Test2" id="1722487747746-163">
+        <plainText>HEllo+form+MQ+INPUT</plainText>
+        <MessageHeader backoutCount="0" characterSet="0" encoding="0" expiry="-1" feedback="0" messageFlags="0" messageType="8" messageSequenceNumber="1" offset="0" originalLength="-1" persistence="2" priority="-1" putApplicationType="0" report="0"/>
+    </MQInputMessage>
+</MessagePool>

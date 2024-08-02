@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MessagePool xmlns="http://wwww.ibm.com/iib/test/1.0.0">
+    <MQInputMessage timestamp="1722420252055" nodeId="FCMComposite_1_1" name="new message 1" id="1722420252055-309">
+        <plainText>%3CEMP%3E%0D%0A%3CENO%3E30%3C%2FENO%3E%0D%0A%3CENAME%3EASHISH%3C%2FENAME%3E%0D%0A%3CECITY%3ENEW+YORK%3C%2FECITY%3E%0D%0A%3C%2FEMP%3E</plainText>
+        <MessageHeader backoutCount="0" characterSet="0" encoding="0" expiry="-1" feedback="0" messageFlags="0" messageType="8" messageSequenceNumber="1" offset="0" originalLength="-1" persistence="2" priority="-1" putApplicationType="0" report="0"/>
+    </MQInputMessage>
+    <MQInputMessage timestamp="1722424046877" nodeId="FCMComposite_1_1" name="T" id="1722424046877-13">
+        <plainText>T</plainText>
+        <MessageHeader backoutCount="0" characterSet="0" encoding="0" expiry="-1" feedback="0" messageFlags="0" messageType="8" messageSequenceNumber="1" offset="0" originalLength="-1" persistence="2" priority="-1" putApplicationType="0" report="0"/>
+    </MQInputMessage>
+    <MQInputMessage timestamp="1722421669686" nodeId="FCMComposite_1_1" name="DEMO" id="1722421669686-380">
+        <plainText>%3CEMP%3E%0D%0A%3CENO%3E30%3C%2FENO%3E%0D%0A%3CENAME%3EASHISH%3C%2FENAME%3E%0D%0A%3CECITY%3ENEW+YORK%3C%2FECITY%3E%0D%0A%3C%2FEMP%3E</plainText>
+        <MessageHeader backoutCount="0" characterSet="0" encoding="0" expiry="-1" feedback="0" messageFlags="0" messageType="8" messageSequenceNumber="1" offset="0" originalLength="-1" persistence="2" priority="-1" putApplicationType="0" report="0"/>
+    </MQInputMessage>
+    <MQInputMessage timestamp="1722424210434" nodeId="FCMComposite_1_1" name="S" id="1722424210434-166">
+        <plainText>%3CEMP%3E%0D%0A%3CENO%3E30%3C%2FENO%3E%0D%0A%3CENAME%3EASHISH%3C%2FENAME%3E%0D%0A%3CECITY%3ENEW+YORK%3C%2FECITY%3E%0D%0A%3C%2FEMP%3E</plainText>
+        <MessageHeader backoutCount="0" characterSet="0" encoding="0" expiry="-1" feedback="0" messageFlags="0" messageType="8" messageSequenceNumber="1" offset="0" originalLength="-1" persistence="2" priority="-1" putApplicationType="0" report="0"/>
+    </MQInputMessage>
+</MessagePool>
